@@ -1,5 +1,5 @@
 import Contact from "../components/Contact";
-import Cta from "../components/CTA";
+import Cta from "../components/Cta";
 import CustomerSection from "../components/CustomerSection";
 import Features from "../components/Features";
 import FooterComponent from "../components/FooterComponent";

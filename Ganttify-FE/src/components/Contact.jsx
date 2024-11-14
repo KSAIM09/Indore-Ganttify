@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import { useState } from "react";
 import head from '../assets/headphones.svg'
 const Contact = () => {
